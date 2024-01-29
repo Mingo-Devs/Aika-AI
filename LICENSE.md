@@ -14,10 +14,10 @@ copies or substantial portions of the Software.
 
 The Aika AI brand, including the name "Aika AI", is a trademark of ByteSoft. 
 Users are prohibited from using the Aika brand in their works without prior 
-written permission from ByteSoft. This includes, but is not limited to, the 
-creation of derivative works, commercial products, or any other use that 
-involves the Aika AI brand. For inquiries regarding the use of the Aika AI 
-brand, please contact ByteSoft directly.
+written permission from ByteSoft, especially when creating derivative works, 
+commercial products, or any other usage associated with the Aika AI brand and 
+based on this Software. For inquiries regarding the use of the Aika AI brand, 
+please contact ByteSoft directly.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
